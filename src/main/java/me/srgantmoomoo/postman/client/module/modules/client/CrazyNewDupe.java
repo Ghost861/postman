@@ -25,7 +25,7 @@ public class CrazyNewDupe extends Module {
 		}
 		if(dupeMode.is("blowy")) {
 			try {
-				Desktop.getDesktop().browse(URI.create("https://github.com/moomooooo/postman"));
+				Desktop.getDesktop().browse(URI.create("https://github.com/Ghost861/postman"));
 			} catch (Exception e) {}
 		}
 		if(dupeMode.is("moneyGlitch")) {
